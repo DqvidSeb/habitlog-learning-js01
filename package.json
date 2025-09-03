@@ -1,0 +1,15 @@
+{
+  "name": "habitlog",
+  "version": "1.0.0",
+  "description": "Phase 1 - Learning project - JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node src/tests.js"
+  },
+  "keywords": [],
+  "author": "David Grijalba",
+  "license": "ISC",
+  "type": "module"
+}
